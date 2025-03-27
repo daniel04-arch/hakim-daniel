@@ -4,6 +4,6 @@ lampu akan tutup dan hidup
 
 # jadual kandungan
 
--[on](on)
--[off](off)
+-[on](#on)
+-[off](#off)
 
